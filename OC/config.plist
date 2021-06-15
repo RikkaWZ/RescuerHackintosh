@@ -1019,7 +1019,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data></data>
 				<key>Identifier</key>
@@ -1282,19 +1282,19 @@
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>PickerAttributes</key>
-			<integer>17</integer>
+			<integer>1</integer>
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PollAppleHotKeys</key>
-			<false/>
+			<true/>
 			<key>ShowPicker</key>
 			<true/>
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>60</integer>
+			<integer>30</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1521,7 +1521,7 @@
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>yFt2PmSJ</data>
+			<data>53bpZH3U</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1529,9 +1529,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CK0GQMD6T</string>
+			<string>C02STNZJGVC1</string>
 			<key>SystemUUID</key>
-			<string>1E58914B-6EEA-50E8-9392-C85B763E6489</string>
+			<string>3382C501-E2E8-4EDC-AC1D-DFDCAE647DD4</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
