@@ -1317,11 +1317,11 @@
 			<key>PickerAttributes</key>
 			<integer>1</integer>
 			<key>PickerAudioAssist</key>
-			<false/>
+			<true/>
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Modern</string>
+			<string>Default</string>
 			<key>PollAppleHotKeys</key>
 			<true/>
 			<key>ShowPicker</key>
@@ -1650,7 +1650,7 @@
 			<key>AudioOut</key>
 			<integer>0</integer>
 			<key>AudioSupport</key>
-			<false/>
+			<true/>
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
@@ -1668,8 +1668,8 @@
 		<array>
 			<string>HfsPlus.efi</string>
 			<string>OpenRuntime.efi</string>
-			<string>AudioDxe.efi</string>
 			<string>OpenCanopy.efi</string>
+			<string>AudioDxe.efi</string>
 			<string>CrScreenshotDxe.efi</string>
 			<string>#OpenPartitionDxe.efi</string>
 			<string>#OpenUsbKbDxe.efi</string>
