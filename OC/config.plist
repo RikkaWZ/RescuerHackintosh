@@ -24,14 +24,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>声卡IRQ补丁</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-IPIC.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>合盖睡眠</string>
 				<key>Enabled</key>
 				<true/>
@@ -40,27 +32,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Fn快捷键</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-FN.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>主板背光</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
 				<string>SSDT-PNLF.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>环境光传感器</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-ALSD.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -88,7 +64,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string></string>
+				<string>声卡IRQ补丁</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
@@ -96,11 +72,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Q38Q39</string>
+				<string>Fn快捷键</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-BKeyQ38Q39-LenovoPRO13.aml</string>
+				<string>SSDT-FN.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
