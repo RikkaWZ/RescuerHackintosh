@@ -86,6 +86,14 @@
 				<key>Path</key>
 				<string>SSDT-GPRW.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>屏蔽独显</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-DDGPU.aml</string>
+			</dict>
 		</array>
 		<key>Delete</key>
 		<array>
@@ -1525,7 +1533,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-wegnoegpu -cdfon -igfxhdmidivs -igfxlspcon igfxonln=1 igfxrpsc=1 -igfxcdc -igfxdvmt vsmcgen=1 -vsmccomp</string>
+				<string>-cdfon -igfxhdmidivs -igfxlspcon igfxonln=1 igfxrpsc=1 -igfxcdc -igfxdvmt vsmcgen=1 -vsmccomp</string>
 				<key>csr-active-config</key>
 				<data>5wsAAA==</data>
 				<key>prev-lang:kbd</key>
