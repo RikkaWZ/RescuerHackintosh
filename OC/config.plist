@@ -64,14 +64,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SMBus</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-SBUS.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>注入 X86，实现 CPU电源管理</string>
 				<key>Enabled</key>
 				<true/>
@@ -109,6 +101,14 @@
 				<true/>
 				<key>Path</key>
 				<string>SSDT-BKeyQ38Q39-LenovoPRO13.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>修复即时唤醒问题</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-GPRW.aml</string>
 			</dict>
 		</array>
 		<key>Delete</key>
