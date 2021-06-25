@@ -32,11 +32,11 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>LID更名（睡眠）</string>
+				<string>合盖睡眠</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-LID.aml</string>
+				<string>SSDT-LIDpatch.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
