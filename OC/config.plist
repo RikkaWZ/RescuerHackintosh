@@ -1254,9 +1254,9 @@
 		<key>Quirks</key>
 		<dict>
 			<key>AppleCpuPmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmExtraMsrs</key>
 			<true/>
 			<key>AppleXcpmForceBoost</key>
@@ -1588,7 +1588,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02617108GUH9W8AD</string>
+			<string>C17617405J9HMHKUE</string>
 			<key>ProcessorType</key>
 			<integer>1799</integer>
 			<key>ROM</key>
@@ -1598,11 +1598,11 @@
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>MacBookPro13,2</string>
+			<string>MacBookPro13,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02RMPYPGYFH</string>
+			<string>C17RM7ZCGVC1</string>
 			<key>SystemUUID</key>
-			<string>FF0695E3-D6EF-4AB2-A0B6-B8BB41A59F3E</string>
+			<string>4F7A5E28-27AA-44AC-8319-144B0E013B28</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
