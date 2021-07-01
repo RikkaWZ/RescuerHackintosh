@@ -1258,7 +1258,7 @@
 			<key>AppleXcpmCfgLock</key>
 			<false/>
 			<key>AppleXcpmExtraMsrs</key>
-			<true/>
+			<false/>
 			<key>AppleXcpmForceBoost</key>
 			<false/>
 			<key>CustomSMBIOSGuid</key>
@@ -1590,7 +1590,7 @@
 			<key>MLB</key>
 			<string>C17617405J9HMHKUE</string>
 			<key>ProcessorType</key>
-			<integer>1799</integer>
+			<integer>0</integer>
 			<key>ROM</key>
 			<data>53bpZH3U</data>
 			<key>SpoofVendor</key>
