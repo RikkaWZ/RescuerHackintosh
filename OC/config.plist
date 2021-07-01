@@ -758,7 +758,7 @@
 				<key>Comment</key>
 				<string>CPU</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/CPUFriend</string>
 				<key>MaxKernel</key>
@@ -776,7 +776,7 @@
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string></string>
 				<key>MaxKernel</key>
@@ -1517,7 +1517,7 @@
 				<key>boot-args</key>
 				<string>igfxonln=1</string>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>5wsAAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>zh-Hans</string>
 				<key>run-efi-updater</key>
