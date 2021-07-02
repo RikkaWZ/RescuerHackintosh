@@ -590,9 +590,9 @@
 		<array>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/Lilu.kext</string>
+				<string>Lilu.kext</string>
 				<key>Comment</key>
 				<string>Kernel</string>
 				<key>Enabled</key>
@@ -608,9 +608,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VirtualSMC/VirtualSMC.kext</string>
+				<string>VirtualSMC/VirtualSMC.kext</string>
 				<key>Comment</key>
 				<string>VirtualSMC</string>
 				<key>Enabled</key>
@@ -626,9 +626,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VirtualSMC/SMCProcessor.kext</string>
+				<string>VirtualSMC/SMCProcessor.kext</string>
 				<key>Comment</key>
 				<string>SMCProcessor</string>
 				<key>Enabled</key>
@@ -644,9 +644,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VirtualSMC/SMCSuperIO.kext</string>
+				<string>VirtualSMC/SMCSuperIO.kext</string>
 				<key>Comment</key>
 				<string>SMCSuperIO</string>
 				<key>Enabled</key>
@@ -662,45 +662,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VirtualSMC/SMCLightSensor.kext</string>
-				<key>Comment</key>
-				<string>SMCLightSensor</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCLightSensor</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>Release/VirtualSMC/SMCDellSensors.kext</string>
-				<key>Comment</key>
-				<string>SMCDellSensors</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/SMCDellSensors</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>Release/VirtualSMC/SMCBatteryManager.kext</string>
+				<string>VirtualSMC/SMCBatteryManager.kext</string>
 				<key>Comment</key>
 				<string>SMCBatteryManager</string>
 				<key>Enabled</key>
@@ -716,9 +680,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/WhateverGreen.kext</string>
+				<string>WhateverGreen.kext</string>
 				<key>Comment</key>
 				<string>GPU</string>
 				<key>Enabled</key>
@@ -734,9 +698,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/AppleALC.kext</string>
+				<string>AppleALC.kext</string>
 				<key>Comment</key>
 				<string>Audio</string>
 				<key>Enabled</key>
@@ -752,9 +716,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/CPUFriend.kext</string>
+				<string>CPUFriend.kext</string>
 				<key>Comment</key>
 				<string>CPU</string>
 				<key>Enabled</key>
@@ -770,9 +734,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/CPUFriendDataProvider.kext</string>
+				<string>CPUFriendDataProvider.kext</string>
 				<key>Comment</key>
 				<string></string>
 				<key>Enabled</key>
@@ -788,9 +752,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/USBPorts.kext</string>
+				<string>USBPorts.kext</string>
 				<key>Comment</key>
 				<string>USB</string>
 				<key>Enabled</key>
@@ -806,9 +770,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VoodooPS2Controller.kext</string>
+				<string>VoodooPS2Controller.kext</string>
 				<key>Comment</key>
 				<string>VoodooPS2Controller</string>
 				<key>Enabled</key>
@@ -824,9 +788,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
 				<key>Comment</key>
 				<string>VoodooInput</string>
 				<key>Enabled</key>
@@ -842,9 +806,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
 				<key>Comment</key>
 				<string>VoodooPS2Keyboard</string>
 				<key>Enabled</key>
@@ -860,9 +824,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
 				<key>Comment</key>
 				<string>VoodooPS2Mouse</string>
 				<key>Enabled</key>
@@ -878,9 +842,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
+				<string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
 				<key>Comment</key>
 				<string>VoodooPS2Trackpad</string>
 				<key>Enabled</key>
@@ -896,9 +860,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/RealtekRTL8111.kext</string>
+				<string>RealtekRTL8111.kext</string>
 				<key>Comment</key>
 				<string>Network</string>
 				<key>Enabled</key>
@@ -914,9 +878,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/AirportItlwm.kext</string>
+				<string>AirportItlwm.kext</string>
 				<key>Comment</key>
 				<string>WiFi</string>
 				<key>Enabled</key>
@@ -932,9 +896,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/Bluetooth/IntelBluetoothInjector.kext</string>
+				<string>Bluetooth/IntelBluetoothInjector.kext</string>
 				<key>Comment</key>
 				<string>BluetoothInject</string>
 				<key>Enabled</key>
@@ -950,9 +914,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Release/Bluetooth/IntelBluetoothFirmware.kext</string>
+				<string>Bluetooth/IntelBluetoothFirmware.kext</string>
 				<key>Comment</key>
 				<string>BluetoothFirmware</string>
 				<key>Enabled</key>
@@ -968,9 +932,9 @@
 			</dict>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
-				<string>Build/HoRNDIS.kext</string>
+				<string>HoRNDIS.kext</string>
 				<key>Comment</key>
 				<string>AndroidUSBNet</string>
 				<key>Enabled</key>
