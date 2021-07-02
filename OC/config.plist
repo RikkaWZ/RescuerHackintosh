@@ -48,14 +48,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Touch、Keyboard</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-PS2M.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>声卡IRQ补丁</string>
 				<key>Enabled</key>
 				<true/>
@@ -830,7 +822,7 @@
 				<key>Comment</key>
 				<string>VoodooPS2Mouse</string>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/VoodooPS2Mouse</string>
 				<key>MaxKernel</key>
