@@ -54,6 +54,8 @@
 				<dict>
 					<key>HS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>右侧 1 槽 USB2 接口</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -65,6 +67,8 @@
 					</dict>
 					<key>HS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>右侧 2 槽 USB2 接口</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -76,6 +80,8 @@
 					</dict>
 					<key>HS04</key>
 					<dict>
+						<key>Comment</key>
+						<string>蓝牙 USB 接口</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -87,6 +93,8 @@
 					</dict>
 					<key>HS05</key>
 					<dict>
+						<key>Comment</key>
+						<string>摄像头</string>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
@@ -98,6 +106,8 @@
 					</dict>
 					<key>HS06</key>
 					<dict>
+						<key>Comment</key>
+						<string>左侧 USB2 接口</string>
 						<key>UsbConnector</key>
 						<integer>0</integer>
 						<key>name</key>
@@ -109,6 +119,8 @@
 					</dict>
 					<key>SS02</key>
 					<dict>
+						<key>Comment</key>
+						<string>右侧 2 槽 USB3 接口</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
@@ -120,6 +132,8 @@
 					</dict>
 					<key>SS03</key>
 					<dict>
+						<key>Comment</key>
+						<string>右侧 1 槽 USB3 接口</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
