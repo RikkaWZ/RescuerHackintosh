@@ -25,7 +25,7 @@
 
   > [https://zhuanlan.zhihu.com/p/266400995](https://zhuanlan.zhihu.com/p/266400995)
 
-  对于本机的 bios，官方最新版本 0kcn36ww，在 Windows 环境下用文中提供的工具修改 Setup 下的 0x84A 为 0x01 即可完成解锁。
+  对于本机的 bios，官方最新版本 0kcn36ww，在 Windows 环境下用文中提供的工具修改 Setup 下的 0x84A 为 0x00 即可完成解锁。
 
 ## 三、尚存问题
 
