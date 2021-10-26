@@ -1,4 +1,6 @@
-# 拯救者 14 isk 黑苹果 OpenCore
+# 拯救者 14 isk 黑苹果 OpenCore 
+
+# For macOS Monterey 12.0.1 
 
 
 ## 一、电脑配置
