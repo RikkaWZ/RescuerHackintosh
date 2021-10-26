@@ -838,6 +838,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>Bluetooth/BlueToolFixup.kext</string>
+				<key>Comment</key>
+				<string>BlueToolFixup</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/BlueToolFixup</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>Bluetooth/IntelBluetoothInjector.kext</string>
 				<key>Comment</key>
 				<string>BluetoothInject</string>
@@ -860,7 +878,7 @@
 				<key>Comment</key>
 				<string>BluetoothFirmware</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/IntelBluetoothFirmware</string>
 				<key>MaxKernel</key>

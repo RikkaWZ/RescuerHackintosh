@@ -29,6 +29,16 @@
 
   对于本机的 bios，官方最新版本 0kcn36ww，在 Windows 环境下用文中提供的工具修改 Setup 下的 0x84A 为 0x00 即可完成解锁。
 
+### 2、macOS 12 下的蓝牙问题
+
+Apple 限制了蓝牙设备的供应商，用一种临时的解决方案支持 macOS 下的蓝牙。
+
+具体解决参考：
+
+> [Monterey Beta 10 Workaround · Issue #347 · OpenIntelWireless/IntelBluetoothFirmware (github.com)](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/issues/347)
+>
+> [【新提醒】beta10蓝牙驱动编译，需要自取-远景论坛-微软极客社区 (pcbeta.com)](https://bbs.pcbeta.com/viewthread-1907376-2-5.html)
+
 ## 三、尚存问题
 
 1. 与 i7 机型最匹配的 smbios 是使用相同 cpu 的 MacBookPro13,3，但实测使用此 smbios 会导致 hdmi 无法输出。尝试过多种方案仍未能解决此问题，故退而求其次使用同代无 Touch ID 的 MacBookPro13,1。
