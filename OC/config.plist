@@ -828,7 +828,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.0.0 | WiFi</string>
+                    <string>V2.1.0 | WiFi</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -846,7 +846,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.0 | BlueToolFixup</string>
+                    <string>V2.6.1 | BlueToolFixup</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
