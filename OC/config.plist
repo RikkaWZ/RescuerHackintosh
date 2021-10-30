@@ -543,6 +543,8 @@
                     <data>AAAbGQ==</data>
                     <key>AAPL,slot-name</key>
                     <string>Internal@0,2,0</string>
+                    <key>agdpmod</key>
+                    <string>vit9696</string>
                     <key>device-id</key>
                     <data>GxkAAA==</data>
                     <key>device_type</key>
@@ -686,7 +688,7 @@
                     <key>Comment</key>
                     <string>V1.2.5 | CPU</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/CPUFriend</string>
                     <key>MaxKernel</key>
@@ -704,7 +706,7 @@
                     <key>Comment</key>
                     <string>V1.0.0</string>
                     <key>Enabled</key>
-                    <false/>
+                    <true/>
                     <key>ExecutablePath</key>
                     <string></string>
                     <key>MaxKernel</key>
@@ -1534,7 +1536,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C17617405J9HMHKUE</string>
+                <string>C02644609CDHCF9AD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1546,11 +1548,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacBookPro13,1</string>
+                <string>MacBookPro13,3</string>
                 <key>SystemSerialNumber</key>
-                <string>C17RM7ZCGVC1</string>
+                <string>C02SM4ZPGTFN</string>
                 <key>SystemUUID</key>
-                <string>4F7A5E28-27AA-44AC-8319-144B0E013B28</string>
+                <string>56CE8B19-06EE-4FD3-89E5-A088CF80EAD9</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
