@@ -551,10 +551,6 @@
                     <string>VGA compatible controller</string>
                     <key>force-online</key>
                     <data>AQAAAA==</data>
-                    <key>framebuffer-con2-enable</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-con2-type</key>
-                    <data>AAgAAA==</data>
                     <key>framebuffer-patch-enable</key>
                     <data>AQAAAA==</data>
                     <key>hda-gfx</key>
