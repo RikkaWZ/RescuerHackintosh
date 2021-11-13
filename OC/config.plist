@@ -8,6 +8,14 @@
             <array>
                 <dict>
                     <key>Comment</key>
+                    <string>X86</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-PLUG.aml</string>
+                </dict>
+                <dict>
+                    <key>Comment</key>
                     <string>EC</string>
                     <key>Enabled</key>
                     <true/>
@@ -16,7 +24,23 @@
                 </dict>
                 <dict>
                     <key>Comment</key>
-                    <string>Sleep while LID Close</string>
+                    <string>USB Power</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-USBX.aml</string>
+                </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string>Battery</string>
+                    <key>Enabled</key>
+                    <true/>
+                    <key>Path</key>
+                    <string>SSDT-BATT.aml</string>
+                </dict>
+                <dict>
+                    <key>Comment</key>
+                    <string>Better Battery</string>
                     <key>Enabled</key>
                     <true/>
                     <key>Path</key>
@@ -29,22 +53,6 @@
                     <true/>
                     <key>Path</key>
                     <string>SSDT-PNLF.aml</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string>X86</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>Path</key>
-                    <string>SSDT-PLUG.aml</string>
-                </dict>
-                <dict>
-                    <key>Comment</key>
-                    <string>Battery</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>Path</key>
-                    <string>SSDT-BATT.aml</string>
                 </dict>
                 <dict>
                     <key>Comment</key>
