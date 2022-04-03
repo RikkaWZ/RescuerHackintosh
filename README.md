@@ -1,6 +1,6 @@
 # 拯救者 14 isk 黑苹果 OpenCore 
 
-# For macOS Monterey 12.0.1 
+# For macOS Monterey 12.3.1
 
 
 ## 一、电脑配置
@@ -43,7 +43,7 @@ Apple 限制了蓝牙设备的供应商，用一种临时的解决方案支持 m
 
 1. ~~与 i7 机型最匹配的 smbios 是使用相同 cpu 的 MacBookPro13,3，但实测使用此 smbios 会导致 hdmi 无法输出。尝试过多种方案仍未能解决此问题，故退而求其次使用同代无 Touch ID 的 MacBookPro13,1。~~
 
-   解决方法是加入参数 agdpmod=vi t9696
+   解决方法是加入参数 agdpmod=vit9696
 
 2. 首次开机后存在内屏闪烁的问题（刷新率低），点一下睡眠再唤醒刷新率恢复正常。
 

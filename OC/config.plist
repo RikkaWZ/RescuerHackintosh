@@ -620,7 +620,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.9 | Kernel</string>
+                    <string>V1.6.0 | Kernel</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -692,7 +692,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.6 | GPU</string>
+                    <string>V1.5.7 | GPU</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -710,7 +710,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.8 | Audio</string>
+                    <string>V1.6.9 | Audio</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1062,6 +1062,8 @@
                     <string></string>
                     <key>MinKernel</key>
                     <string></string>
+                    <key>Strategy</key>
+                    <string>Disable</string>
                 </dict>
             </array>
             <key>Emulate</key>
@@ -1413,6 +1415,8 @@
                 <integer>0</integer>
                 <key>DisplayLevel</key>
                 <integer>2147483650</integer>
+                <key>LogModules</key>
+                <string></string>
                 <key>SerialInit</key>
                 <false/>
                 <key>SysReport</key>
