@@ -638,7 +638,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8</string>
+                    <string>V1.2.9</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -656,7 +656,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8 | SMCProcessor</string>
+                    <string>V1.2.9 | SMCProcessor</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -674,7 +674,7 @@
                     <key>BundlePath</key>
                     <string>SMCBatteryManager.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.8 | SMCBatteryManager</string>
+                    <string>V1.2.9 | SMCBatteryManager</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -692,7 +692,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.5.7 | GPU</string>
+                    <string>V1.5.8 | GPU</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -710,7 +710,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.9 | Audio</string>
+                    <string>V1.7.1 | Audio</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -728,7 +728,7 @@
                     <key>BundlePath</key>
                     <string>CPUFriend.kext</string>
                     <key>Comment</key>
-                    <string>V1.2.4 | CPU</string>
+                    <string>V1.2.5 | CPU</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -782,7 +782,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.7</string>
+                    <string>V2.2.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -818,7 +818,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.7</string>
+                    <string>V2.2.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -836,7 +836,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
                     <key>Comment</key>
-                    <string>V2.2.7</string>
+                    <string>V2.2.8</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -908,7 +908,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothInjector.kext</string>
                     <key>Comment</key>
-                    <string>V2.0.1 | BluetoothInject</string>
+                    <string>V2.1.0 | BluetoothInject</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -926,7 +926,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothFirmware.kext</string>
                     <key>Comment</key>
-                    <string>V2.0.1 | BluetoothFirmware</string>
+                    <string>V2.1.0 | BluetoothFirmware</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
